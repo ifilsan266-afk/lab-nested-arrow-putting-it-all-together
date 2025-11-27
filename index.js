@@ -24,7 +24,7 @@ const login =createlogintracker(user);
 console.log(login("wrong"));//attempt 1
 console.log(login("wrong"));//attempt 2
 console.log(login("234"));//attempt3
-console.log(login("234"));//account blocked due to inncorrect password attepmt
+console.log(login("234"));//account blocked due to incorrect password attepmt
 
 
 
